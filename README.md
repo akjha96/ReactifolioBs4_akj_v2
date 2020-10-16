@@ -1,4 +1,4 @@
-A web developer portfolio using React.js , Node.js and React-Bootstrap
+A web developer portfolio using React.js , Node.js and React-Bootstrap || Version 2 in making
 
 
 ![ScreenShot](src/assets/img/readmepreview/preview.jpg)
