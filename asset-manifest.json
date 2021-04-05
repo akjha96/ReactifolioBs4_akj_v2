@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactifolioBs4_akj_v2/static/css/main.1a133721.chunk.css",
-    "main.js": "/ReactifolioBs4_akj_v2/static/js/main.c900479b.chunk.js",
-    "main.js.map": "/ReactifolioBs4_akj_v2/static/js/main.c900479b.chunk.js.map",
+    "main.css": "/ReactifolioBs4_akj_v2/static/css/main.e1613b84.chunk.css",
+    "main.js": "/ReactifolioBs4_akj_v2/static/js/main.b52dfca3.chunk.js",
+    "main.js.map": "/ReactifolioBs4_akj_v2/static/js/main.b52dfca3.chunk.js.map",
     "runtime-main.js": "/ReactifolioBs4_akj_v2/static/js/runtime-main.cf05aa19.js",
     "runtime-main.js.map": "/ReactifolioBs4_akj_v2/static/js/runtime-main.cf05aa19.js.map",
     "static/js/2.71bdbbc9.chunk.js": "/ReactifolioBs4_akj_v2/static/js/2.71bdbbc9.chunk.js",
     "static/js/2.71bdbbc9.chunk.js.map": "/ReactifolioBs4_akj_v2/static/js/2.71bdbbc9.chunk.js.map",
     "index.html": "/ReactifolioBs4_akj_v2/index.html",
-    "precache-manifest.5d882a7f592b1702ff88d046390ae005.js": "/ReactifolioBs4_akj_v2/precache-manifest.5d882a7f592b1702ff88d046390ae005.js",
+    "precache-manifest.eeb7825fc56bff977c0d975f508ad38e.js": "/ReactifolioBs4_akj_v2/precache-manifest.eeb7825fc56bff977c0d975f508ad38e.js",
     "service-worker.js": "/ReactifolioBs4_akj_v2/service-worker.js",
-    "static/css/main.1a133721.chunk.css.map": "/ReactifolioBs4_akj_v2/static/css/main.1a133721.chunk.css.map",
+    "static/css/main.e1613b84.chunk.css.map": "/ReactifolioBs4_akj_v2/static/css/main.e1613b84.chunk.css.map",
     "static/js/2.71bdbbc9.chunk.js.LICENSE.txt": "/ReactifolioBs4_akj_v2/static/js/2.71bdbbc9.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/ReactifolioBs4_akj_v2/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/ReactifolioBs4_akj_v2/static/media/Robofriends.9730fefc.webp",
@@ -43,7 +43,7 @@
     "static/media/product_hunt_clone.webp": "/ReactifolioBs4_akj_v2/static/media/product_hunt_clone.4bef4c3e.webp",
     "static/media/profile.webp": "/ReactifolioBs4_akj_v2/static/media/profile.210d83de.webp",
     "static/media/python.svg": "/ReactifolioBs4_akj_v2/static/media/python.146716bd.svg",
-    "static/media/react-bootstrap.svg": "/ReactifolioBs4_akj_v2/static/media/react-bootstrap.83fe61b0.svg",
+    "static/media/react-bootstrap.svg": "/ReactifolioBs4_akj_v2/static/media/react-bootstrap.ef194ddf.svg",
     "static/media/react-router.svg": "/ReactifolioBs4_akj_v2/static/media/react-router.02419671.svg",
     "static/media/react.svg": "/ReactifolioBs4_akj_v2/static/media/react.4009eef3.svg",
     "static/media/redux.svg": "/ReactifolioBs4_akj_v2/static/media/redux.aa0a3376.svg",
@@ -51,13 +51,13 @@
     "static/media/slide1.webp": "/ReactifolioBs4_akj_v2/static/media/slide1.8bce7aef.webp",
     "static/media/slide2.webp": "/ReactifolioBs4_akj_v2/static/media/slide2.7256f309.webp",
     "static/media/slide3.webp": "/ReactifolioBs4_akj_v2/static/media/slide3.8e5b87b6.webp",
-    "static/media/styled-components.svg": "/ReactifolioBs4_akj_v2/static/media/styled-components.e79a42b9.svg",
+    "static/media/styled-components.svg": "/ReactifolioBs4_akj_v2/static/media/styled-components.9ceedb83.svg",
     "static/media/typescript.svg": "/ReactifolioBs4_akj_v2/static/media/typescript.3de182d2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf05aa19.js",
     "static/js/2.71bdbbc9.chunk.js",
-    "static/css/main.1a133721.chunk.css",
-    "static/js/main.c900479b.chunk.js"
+    "static/css/main.e1613b84.chunk.css",
+    "static/js/main.b52dfca3.chunk.js"
   ]
 }

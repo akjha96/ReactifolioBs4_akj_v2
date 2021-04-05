@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactifolioBs4_akj_v2/precache-manifest.5d882a7f592b1702ff88d046390ae005.js"
+  "/ReactifolioBs4_akj_v2/precache-manifest.eeb7825fc56bff977c0d975f508ad38e.js"
 );
 
 self.addEventListener('message', (event) => {
