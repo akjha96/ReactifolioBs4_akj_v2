@@ -48,21 +48,6 @@ const ContactForm = () => {
             </div>
             <div className="m-2">
               <a
-                href="https://www.youtube.com/user/MrAkjha96/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Button
-                  id="youtube-btn"
-                  variant="outline-info"
-                  title="Lets code together!"
-                >
-                  <i className="fab fa-youtube"></i> Youtube
-                </Button>
-              </a>
-            </div>
-            <div className="m-2">
-              <a
                 href="https://twitter.com/akjha96"
                 target="_blank"
                 rel="noopener noreferrer"
