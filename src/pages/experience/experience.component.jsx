@@ -45,14 +45,29 @@ const Experience = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        Worked as Backend Developer with TypeScript Node.js and
-                        NestJS
+                        Quick transition to Backend and Lead Support Developer
+                        resulting in lowering down Service Now tickets from{" "}
+                        <strong>500+ to 0</strong>.
                       </li>
-
                       <li>
-                        <strong>Provided</strong> application maintenance while
-                        working as `Production Support` and Enhancement items
-                        based on analysis of the same
+                        Developed features within existing Backend APIs to
+                        implement new changes done in sister project API.
+                      </li>
+                      <li>
+                        Worked on JIRA stories to develop a new API to support
+                        client-requested features.
+                      </li>
+                      <li>
+                        Provided KT and workshops to different MNC handing over
+                        Support tasks and proceedings.
+                      </li>
+                      <li>
+                        Created Change requests & Release on SNOW for each
+                        deployment of Frontend, Backend & ETL jobs.
+                      </li>
+                      <li>
+                        Developed Proof of Concept using React & React Native
+                        for Innovation items for Clients.
                       </li>
                     </ul>
                   </div>

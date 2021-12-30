@@ -153,12 +153,12 @@ export const skills = {
       imgSrc: L_PYTHON,
       skillName: "Python",
     },
-    {
-      link: "https://golang.org/",
-      imgAltText: "Golang",
-      imgSrc: L_GOLANG,
-      skillName: "Golang",
-    },
+    // {
+    //   link: "https://golang.org/",
+    //   imgAltText: "Golang",
+    //   imgSrc: L_GOLANG,
+    //   skillName: "Golang",
+    // },
   ],
   databases: [
     {
