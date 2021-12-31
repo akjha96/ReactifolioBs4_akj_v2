@@ -34,7 +34,7 @@ const Experience = () => {
                 <div>
                   <div className="text-center style">
                     <strong className="body-title-style ">
-                      Full Stack Developer
+                      Frontend Developer
                     </strong>
                     <br />
                     <strong>Technology:</strong> React JS, React Native,
@@ -45,29 +45,31 @@ const Experience = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        Quick transition to Backend and Lead Support Developer
-                        resulting in lowering down Service Now tickets from{" "}
-                        <strong>500+ to 0</strong>.
+                        <strong>Quick transition</strong> to Backend and Lead
+                        Support Developer resulting in lowering down Service Now
+                        tickets from <strong>500+ to 0</strong>.
                       </li>
                       <li>
-                        Developed features within existing Backend APIs to
-                        implement new changes done in sister project API.
+                        <strong>Developed</strong> features within existing
+                        Backend APIs to implement new changes done in sister
+                        project API.
                       </li>
                       <li>
-                        Worked on JIRA stories to develop a new API to support
-                        client-requested features.
+                        <strong>Worked on</strong> JIRA stories to develop a new
+                        API to support client-requested features.
                       </li>
                       <li>
-                        Provided KT and workshops to different MNC handing over
-                        Support tasks and proceedings.
+                        <strong>Provided KT and workshops</strong> to different
+                        MNC handing over Support tasks and proceedings.
                       </li>
                       <li>
-                        Created Change requests & Release on SNOW for each
-                        deployment of Frontend, Backend & ETL jobs.
+                        <strong>Created</strong> Change requests & Release on
+                        SNOW for each deployment of Frontend, Backend & ETL
+                        jobs.
                       </li>
                       <li>
-                        Developed Proof of Concept using React & React Native
-                        for Innovation items for Clients.
+                        <strong>Developed</strong> Proof of Concept using React
+                        & React Native for Innovation items for Clients.
                       </li>
                     </ul>
                   </div>
