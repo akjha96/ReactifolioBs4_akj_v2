@@ -134,12 +134,12 @@ const TimeLine = () => {
                 >
                   SOURCE CODE
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
+                </UrlButton> */}
               </div>
             </div>
           </ImageEvent>
