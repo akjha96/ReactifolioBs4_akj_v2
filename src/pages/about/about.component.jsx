@@ -17,7 +17,7 @@ const About = () => {
           <Row className="pt-3 pb-5 align-items-center">
             <Col xs={12} md={6}>
               <Row className="justify-content-center mb-2">
-                <Tilt options={{ max: 10, scale: 1 }}>
+                <Tilt options={{ max: 5, scale: 1 }}>
                   <Image
                     className="profile justify-content-end"
                     alt="profile"
