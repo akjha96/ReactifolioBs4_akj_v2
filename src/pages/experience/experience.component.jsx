@@ -71,7 +71,7 @@ const Experience = () => {
                       <strong>Implemented multi-lingual functionality</strong>{" "}
                       to the project's <strong>web application</strong> enabling
                       it to be used
-                      <strong>across different countries</strong> by the
+                      <strong> across different countries</strong> by the
                       customers.
                     </li>
                     <li>
