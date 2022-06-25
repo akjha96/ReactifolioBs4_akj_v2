@@ -36,21 +36,23 @@ const Experience = () => {
                   </strong>
                   <br />
                   <strong>Technology:</strong> React JS, React Native, Node.js,
-                  NestJS, PostgreSQL
+                  NestJS, PostgreSQL, Flutter
                   <br />
                   <strong>Duration:</strong> June 2021 - Present
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
                     <li>
-                      <strong>Quick transition</strong> to Backend and Lead
-                      Support Developer resulting in lowering down Service Now
-                      tickets from <strong>500+ to 0</strong>.
+                      <strong>Quick transition</strong> to{" "}
+                      <strong>Backend</strong> and{" "}
+                      <strong>Lead Support Developer</strong> resulting in{" "}
+                      <strong>reducing</strong> Service Now tickets from{" "}
+                      <strong>500+ to 0</strong>.
                     </li>
                     <li>
-                      <strong>Developed</strong> features within existing
-                      Backend APIs to implement new changes done in sister
-                      project API.
+                      <strong>Developed & Enhanced features</strong> to
+                      implement new changes done in sister project API & build
+                      client-requested features.
                     </li>
                     <li>
                       <strong>Worked on</strong> JIRA stories to develop a new
@@ -58,15 +60,25 @@ const Experience = () => {
                     </li>
                     <li>
                       <strong>Provided KT and workshops</strong> to different
-                      MNC handing over Support tasks and proceedings.
+                      <strong> MNC</strong> handing over Support tasks and
+                      proceedings.
                     </li>
                     <li>
                       <strong>Created</strong> Change requests & Release on SNOW
                       for each deployment of Frontend, Backend & ETL jobs.
                     </li>
                     <li>
-                      <strong>Developed</strong> Proof of Concept using React &
-                      React Native for Innovation items for Clients.
+                      <strong>Implemented multi-lingual functionality</strong>{" "}
+                      to the project's <strong>web application</strong> enabling
+                      it to be used
+                      <strong>across different countries</strong> by the
+                      customers.
+                    </li>
+                    <li>
+                      <strong>Worked</strong> on{" "}
+                      <strong>building Hybrid Mobile App</strong> for{" "}
+                      <strong>Health Industry</strong> using Flutter & Dart in
+                      Firm Initiative.
                     </li>
                   </ul>
                 </div>
@@ -119,8 +131,8 @@ const Experience = () => {
                       bulk query scripts that increased efficiency by 80%.
                     </li>
                     <li>
-                      <strong>Provided</strong> application maintenance while
-                      working as `Production Support`.
+                      <strong>Performed</strong> application maintenance while
+                      working as Production Support.
                     </li>
                     <li>
                       <strong>Performed</strong> CRUD operations on multiple
