@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a337a264df53007b0134cf26b70930af",
+    "revision": "d6e7ef95731ea13be86f27d3a661fcee",
     "url": "/ReactifolioBs4_Akj/index.html"
   },
   {
-    "revision": "c37ebcef52d28769b3ee",
-    "url": "/ReactifolioBs4_Akj/static/css/main.38be6267.chunk.css"
+    "revision": "5de50a55422d6d842390",
+    "url": "/ReactifolioBs4_Akj/static/css/main.10e170f1.chunk.css"
   },
   {
-    "revision": "a44544658dfb61dec534",
-    "url": "/ReactifolioBs4_Akj/static/js/2.4621f538.chunk.js"
+    "revision": "d6e3e31c3a424ac2aafd",
+    "url": "/ReactifolioBs4_Akj/static/js/2.732f5e18.chunk.js"
   },
   {
-    "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/ReactifolioBs4_Akj/static/js/2.4621f538.chunk.js.LICENSE.txt"
+    "revision": "46f8075d5664842115535f8d03e09ffc",
+    "url": "/ReactifolioBs4_Akj/static/js/2.732f5e18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c37ebcef52d28769b3ee",
-    "url": "/ReactifolioBs4_Akj/static/js/main.12de4754.chunk.js"
+    "revision": "5de50a55422d6d842390",
+    "url": "/ReactifolioBs4_Akj/static/js/main.dc232bae.chunk.js"
   },
   {
     "revision": "e1b81b1a85e4212fc570",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactifolioBs4_Akj/static/media/css3.3707da3c.svg"
   },
   {
+    "revision": "63a1fa89591745e789e439a1f2d1abf1",
+    "url": "/ReactifolioBs4_Akj/static/media/dart.63a1fa89.svg"
+  },
+  {
     "revision": "f4f7be3553bd0a5e925ef3b9305bbcc8",
     "url": "/ReactifolioBs4_Akj/static/media/deloitte.f4f7be35.svg"
   },
@@ -76,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactifolioBs4_Akj/static/media/firebase.7f8d489c.svg"
   },
   {
+    "revision": "faf8f499559f6b2f815f454a5794eae3",
+    "url": "/ReactifolioBs4_Akj/static/media/flutter.faf8f499.svg"
+  },
+  {
     "revision": "0692ddac9614e47c40a43276cd9287e4",
     "url": "/ReactifolioBs4_Akj/static/media/get_github_info.0692ddac.webp"
   },
@@ -90,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ff1a6f08182be4aa63a0b54da1b9e57",
     "url": "/ReactifolioBs4_Akj/static/media/github.0ff1a6f0.svg"
-  },
-  {
-    "revision": "30bd42ea97a2e0454bb1dfbab983eb54",
-    "url": "/ReactifolioBs4_Akj/static/media/go-6.30bd42ea.svg"
   },
   {
     "revision": "b38ff61aa327fbdc24f7b1dad7d04d1a",
@@ -152,12 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactifolioBs4_Akj/static/media/profile.210d83de.webp"
   },
   {
-    "revision": "146716bdf1a351db5705ec1e6a25ed08",
-    "url": "/ReactifolioBs4_Akj/static/media/python.146716bd.svg"
-  },
-  {
-    "revision": "ef194ddf5faf63cb6cc580a4535be695",
-    "url": "/ReactifolioBs4_Akj/static/media/react-bootstrap.ef194ddf.svg"
+    "revision": "83fe61b05935f090b671b08aeb77b63d",
+    "url": "/ReactifolioBs4_Akj/static/media/react-bootstrap.83fe61b0.svg"
   },
   {
     "revision": "024196716802e272adb3cbefb81fd557",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactifolioBs4_Akj/static/media/slide3.8e5b87b6.webp"
   },
   {
-    "revision": "9ceedb838144da63d409d778f4245a82",
-    "url": "/ReactifolioBs4_Akj/static/media/styled-components.9ceedb83.svg"
+    "revision": "e79a42b9281a3b30f1302d5452f9884f",
+    "url": "/ReactifolioBs4_Akj/static/media/styled-components.e79a42b9.svg"
   },
   {
     "revision": "3de182d2120823fe49c27eeb1765c53a",
